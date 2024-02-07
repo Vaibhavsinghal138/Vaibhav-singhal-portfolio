@@ -8,8 +8,6 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
  
  </div>
  
-## Demo
+## Preview
 
-![vCard Desktop Demo]( portfolio demo.png "Desktop Demo")
-
-
+![image](https://vaibhavsinghal138.github.io/Netflix-Hompage-Clone/Assets/feature-1.png)
